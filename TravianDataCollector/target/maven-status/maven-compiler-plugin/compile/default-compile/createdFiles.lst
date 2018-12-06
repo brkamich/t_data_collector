@@ -1,0 +1,11 @@
+model\Model.class
+data\Player.class
+requests\AllianceRequest.class
+data\Village.class
+scraper\TravianDataCollector.class
+requests\VillageRequest.class
+scraper\BotScraper.class
+requests\PlayerRequest.class
+elasticsearch\ElasticManager.class
+data\GameObject.class
+data\Alliance.class

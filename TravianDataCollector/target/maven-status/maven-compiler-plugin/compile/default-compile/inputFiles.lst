@@ -1,0 +1,11 @@
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\model\Model.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\scraper\BotScraper.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\elasticsearch\ElasticManager.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\requests\VillageRequest.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\scraper\TravianDataCollector.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\requests\AllianceRequest.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\data\GameObject.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\data\Player.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\data\Village.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\requests\PlayerRequest.java
+F:\Magister\MI-PDP\TravianDataCollector\src\main\java\data\Alliance.java
